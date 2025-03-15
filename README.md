@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I Abdullah Badr Abdullah Badr Abdelaziz</h1>
+<h1 align="center">Hi 👋,I Abdullah Badr Abdalziz</h1>
 <h3 align="center">A passionate Backend Developer & frontend Developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am66v&label=Profile%20views&color=0e75b6&style=flat" alt="am66v" /> </p>
